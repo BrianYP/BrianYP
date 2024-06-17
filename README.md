@@ -46,17 +46,20 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="48" style="max-width: 100%;">
+    <img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=38553&format=png&color=000000" width="48" style="max-width: 100%;">
 </div>
 
 ## Uso de Herramientas ⚒️
 <div style="float: right; margin-left: 20px;">
-    <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="48" style="max-width: 100%;"><img src="" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="48" style="max-width: 100%;">
-    <img src="" width="48" style="max-width: 100%;">
-    <img src="" width="48" style="max-width: 100%;">
-    <img src="" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" width="48" style="max-width: 100%;">
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="48" style="max-width: 100%;">
+    
 </div>
 
 ## GitHub Thropies 🏆
