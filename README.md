@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center">Hola, Soy Brahyan Yepes Cuartas!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## About Me
-
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+## Sobre mi
 - 🎓 Estudié en el [Politécnico Jaime Isaza Cadavid](https://www.politecnicojic.edu.co/estudiantes)
 - 🎓 Técnico Profesional en Desarrollo de Sistemas de Información
 - 🏡 Vivo en **Medellín, Colombia**
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 ## Contacta conmigo ☕
 
@@ -62,7 +63,13 @@ Here are some ideas to get you started:
     
 </div>
 
-## GitHub Thropies 🏆
+## Uso de otras herramientas 🏆
+<div style="float: right; margin-left: 20px;">
+    <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" width="48" style="max-width: 100%;">
+</div>
+## pa 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
