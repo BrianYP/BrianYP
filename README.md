@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ✔ Llamame: ***Como gustes*** 😊 <br>
 ✔ Siempre interesado en aprender sobre nuevas e increíbles tecnologías para el ***desarrollo.***<br>
-✔ Comprometido y abierto a nuevas oportunidades y retos en el área de desarrollo de software, particularmente en el ámbito de la ***inteligencia artificial.***😁<br>
+✔ Comprometido y abierto a nuevas oportunidades y retos en el área de desarrollo de software😁<br>
 ✔ Echa un vistazo a mis ***proyectos - personales*** en mi perfil.<br>
 ✔ Estoy entusiasmado por aprender más sobre el desarrollo web.😉<br>
 ✔ Me apasiona aprender más sobre la inteligencia artificial. 😎<br><br><br><br>
