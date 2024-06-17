@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="48" style="max-width: 100%;">
-    <img src="https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=wX4mdwgxPkdH&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="48" style="max-width: 100%;">
