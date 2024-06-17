@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **BrianYP/BrianYP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +30,7 @@ Here are some ideas to get you started:
 [![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:3195291181)
 [![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:brahyanyepescuartas62@gmail.com)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## En lo que soy Bueno 🧑‍💻
 
 <div style="float: right; margin-left: 20px;">
