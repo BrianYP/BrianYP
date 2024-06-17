@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🏡 Vivo en **Medellín, Colombia**
 
 
-## Contacta conmigo ☕
+## contactaste conmigo ☕
 
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/brahyan-yepes-cuartas-496994204/)
 [![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:3195291181)
