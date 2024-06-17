@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## En lo que soy Bueno 🧑‍💻 :
 
 <br>
-<img src="/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" style="max-width: 100%;">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <br>
 
 ## GitHub Stats 📈 :
