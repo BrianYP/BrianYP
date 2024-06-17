@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/brahyan-yepes-cuartas-496994204/) [![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:3195291181) [![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:brahyanyepescuartas62@gmail.com)
 
 <br>
 
