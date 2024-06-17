@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 [![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:3195291181)
 [![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:brahyanyepescuartas62@gmail.com)
 
-<p align="center">
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> En lo que soy Bueno 🧑‍💻>
+## En lo que soy Bueno 🧑‍💻
 
 <div style="float: right; margin-left: 20px;">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" style="max-width: 100%;">
@@ -69,6 +67,20 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
+✔ I’m currently learning about **deep learning**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+ 
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+
 ## pa 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
@@ -77,7 +89,11 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
