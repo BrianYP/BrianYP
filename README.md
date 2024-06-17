@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 [![Teléfono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:3195291181)
 [![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:brahyanyepescuartas62@gmail.com)
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">En lo que soy Bueno 🧑‍💻</b>
+<p align="center">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> En lo que soy Bueno 🧑‍💻</b>
 
 <div style="float: right; margin-left: 20px;">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" style="max-width: 100%;">
