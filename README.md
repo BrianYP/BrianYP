@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 ## En lo que soy Bueno 🧑‍💻 :
 
 <br>
-<a href="https://skillicons.dev">
-    <img src="/tandpfun/skill-icons/raw/main/icons/Apollo.svg" width="48" style="max-width: 100%;">
-</a>
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" style="max-width: 100%;">
 <br>
 
 ## GitHub Stats 📈 :
