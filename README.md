@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 ## En lo que soy Bueno 🧑‍💻 :
 
 <br>
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" style="max-width: 100%;">
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="48" style="max-width: 100%;">width: 100%;"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="48" style="max-width: 100%;"><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="48" style="max-width: 100%;"><img src="" width="48" style="max-width: 100%;"><img src="" width="48" style="max-width: 100%;">
+
 <br>
 
 ## GitHub Stats 📈 :
