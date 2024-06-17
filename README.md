@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=wX4mdwgxPkdH&format=png&color=000000" width="48" style="max-width: 100%;">
-    <img src="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" width="48" style="max-width: 100%;">
+    <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="48" style="max-width: 100%;">
     <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="48" style="max-width: 100%;">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## Uso de Herramientas ⚒️
 <div style="float: right; margin-left: 20px;">
     <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="48" style="max-width: 100%;"><img src="" width="48" style="max-width: 100%;">
-    <img src="" width="48" style="max-width: 100%;">
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="48" style="max-width: 100%;">
     <img src="" width="48" style="max-width: 100%;">
     <img src="" width="48" style="max-width: 100%;">
     <img src="" width="48" style="max-width: 100%;">
