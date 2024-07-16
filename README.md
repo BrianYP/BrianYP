@@ -78,11 +78,9 @@ Here are some ideas to get you started:
 ✔ Estoy entusiasmado por aprender más sobre el desarrollo web.😉<br>
 ✔ Me apasiona aprender más sobre la inteligencia artificial. 😎<br><br><br><br>
 
-
 <!--- snake -->
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake">
+    <img src="/1999AZZAR/1999AZZAR/resources/grid-snake.svg" alt="snake">
   </a>
 </div>
-
