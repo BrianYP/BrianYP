@@ -81,7 +81,8 @@ Here are some ideas to get you started:
 <!--- pacman -->
 <div align="center">
   <a href="https://tu-enlace-a-tu-página">
-    <img src="ruta-de-tu-imagen-packman.svg" alt="packman">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IndoaXRlIj4KICAgICAgICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAuMTU4IDguMjA1aC0uMjA1bC0uMjA1IDguMjA1IDQuNzY0LjIwNSIgc3Ryb2tlPSIjZmZmIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICAgICAgICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNOC4yMDUgMTAuMTU4aC0uMjA1bC0uMjA1LTEwLjE1OC00Ljc2NC4yMDUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICAgICAgPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04LjIwNSA4LjIwNmgxMC4xNThsLS4yMDUgOC4yMDUgNC43NjQuMjA1IiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgPC9yZWN0Pgo8L2c+Cjwvc3ZnPgo=" alt="pacman">
   </a>
 </div>
+
 
